@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110466500179",
+    "project_id": "famecarpainterapp",
+    "storage_bucket": "famecarpainterapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110466500179:android:050bb797e8d01eb02328a6",
+        "android_client_info": {
+          "package_name": "com.koso_123.MyApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnn9g-fE0tsk0aOMAdoxT5r8x9WYBc6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

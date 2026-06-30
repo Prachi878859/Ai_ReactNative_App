@@ -6,12 +6,13 @@
       "@/*": [
         "./*"
       ]
-    }
+    },
+    "typeRoots": ["./node_modules/@types", "./src/types", "./types"]
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/utils/InvoicePDF.tsx"  ]
 }
