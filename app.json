@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "aiapp2",
-    "slug": "aiapp",
+    "name": "ai_application",
+    "slug": "aiapplication",
     "version": "1.0.0",
     "orientation": "portrait",
     
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": false,
+    "newArchEnabled": true,
   
     "android": {
       "googleServicesFile":"./google-services.json",
@@ -43,7 +43,7 @@
     },
     "plugins": [
       "expo-router",
-      "@react-native-firebase/app",
+      
       [
         "expo-splash-screen",
         {
@@ -67,7 +67,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "34f271b8-887e-4a82-a3ca-ed3fcfd90e58"
+        "projectId": "2e1f2901-2ff7-4d39-8394-775f9abadc8e"
       }
     }
   }
